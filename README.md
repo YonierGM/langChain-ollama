@@ -30,7 +30,6 @@ cd langChain-ollama
 
 ```bash
 npm install
-cd langChain-ollama
 ```
 
 3. Correr app:
